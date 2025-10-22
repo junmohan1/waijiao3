@@ -33,3 +33,7 @@ if __name__ == "__main__":
     
     # 测试加法功能
     print(f"2 + 3 = {add_numbers(2, 3)}")
+# 新增功能示例
+def multiply_numbers(a, b):
+    """乘法功能"""
+    return a * b
