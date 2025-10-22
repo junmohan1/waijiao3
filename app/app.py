@@ -23,7 +23,7 @@ def add_numbers(a, b):
     """
     新增功能：两个数字相加
     """
-    return a * b
+    return a + b
 
 if __name__ == "__main__":
     # 测试表头去重功能
